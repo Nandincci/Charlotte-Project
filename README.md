@@ -24,14 +24,20 @@
 
 
 ## 📷 Página de Registro
+
+---------- EM ANDAMENTO ----------
 <br>
 
 
 ## 📷 Área do Administrador
+
+---------- EM ANDAMENTO ----------
 <br>
 
 
 ## 💻 Projeto
+
+Projeto de gerenciamento de entregadores com o intuito de ajudar na dificuldade em realizar os cálculos dos pagamentos dos entregadores, e a falta de agilidade na geração de relatórios. Automatizando a etapa de calcular, registrar e atualizar os dados dos entregadores.
 
 <br>
 
